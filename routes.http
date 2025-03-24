@@ -1,0 +1,25 @@
+POST http://localhost:8081/alunos
+Content-Type: application/json
+
+{
+    "nome": "João",
+    "idade": 18,
+    "numero": 20
+}
+
+### 
+GET http://localhost:8081/alunos
+
+###
+PUT http://localhost:8081/alunos/9951b932-7d2a-4883-9f79-041816c6bf8e
+Content-Type: application/json
+
+{
+    "nome": "Angelo",
+    "idade": 15,
+    "numero": 4
+}
+
+### 
+
+DELETE http://localhost:8081/alunos/fe26af26-b36b-4b86-bae3-1f63121fe49e
