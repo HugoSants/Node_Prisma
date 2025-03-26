@@ -2,9 +2,6 @@
 ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/150px-Node.js_logo.svg.png)
 
 
-
-</br>
-
 ## Fastify config
 
 ### Create application
